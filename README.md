@@ -1,8 +1,7 @@
 # JupyterLab Form
 
-[![Join the chat at https://gitter.im/simonbiggs/jupyterlab-form](https://badges.gitter.im/simonbiggs/jupyterlab-form.svg)](https://gitter.im/simonbiggs/jupyterlab-form?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Gitter chat](https://badges.gitter.im/simonbiggs/jupyterlab-form.png)](https://gitter.im/simonbiggs/jupyterlab-form)
+[![Join the chat at https://gitter.im/simonbiggs/jupyterlab-form](https://badges.gitter.im/simonbiggs/jupyterlab-form.svg)](https://gitter.im/simonbiggs/jupyterlab-form?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 An extension for jupyterlab to create scripted forms.
 
